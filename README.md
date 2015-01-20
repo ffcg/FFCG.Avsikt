@@ -1,0 +1,2 @@
+# FFCG.Avsikt
+Hackathon
